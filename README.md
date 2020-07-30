@@ -1,2 +1,2 @@
-# Learn_Java
+# Java-Programs
 Revision of basic java programs
